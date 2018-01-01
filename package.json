@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "App to learn how to code in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitMaewall/pluralsight-nodewebapp-mills.git"
+  },
+  "author": "Ankit Maewall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitMaewall/pluralsight-nodewebapp-mills/issues"
+  },
+  "homepage": "https://github.com/AnkitMaewall/pluralsight-nodewebapp-mills#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
